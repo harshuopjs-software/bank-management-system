@@ -1,0 +1,1 @@
+harshuopjs,#HARSH123,1000,harsh_kumar_singh,20000.0;2024-10-24,Account opened,120000.0,120000.0;2024-10-24,Withdraw,-100000.0,20000.0
